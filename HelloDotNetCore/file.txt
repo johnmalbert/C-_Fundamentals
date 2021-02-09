@@ -1,0 +1,31 @@
+PS C:\Users\johnm\Documents\Coding_Dojo\C#\FirstCSharp> dotnet --version
+3.1.302
+PS C:\Users\johnm\Documents\Coding_Dojo\C#\FirstCSharp> cd..
+PS C:\Users\johnm\Documents\Coding_Dojo\C#> mkdir HelloDotNetCore
+
+
+    Directory: C:\Users\johnm\Documents\Coding_Dojo\C#
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          2/4/2021  12:38 PM                HelloDotNetCore
+
+
+PS C:\Users\johnm\Documents\Coding_Dojo\C#> cd .\HelloDotNetCore\
+PS C:\Users\johnm\Documents\Coding_Dojo\C#\HelloDotNetCore> dotnet new console
+The template "Console Application" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on C:\Users\johnm\Documents\Coding_Dojo\C#\HelloDotNetCore\HelloDotNetCore.csproj...
+  Determining projects to restore...
+  Restored C:\Users\johnm\Documents\Coding_Dojo\C#\HelloDotNetCore\HelloDotNetCore.csproj (in 109 ms).
+
+Restore succeeded.
+
+PS C:\Users\johnm\Documents\Coding_Dojo\C#\HelloDotNetCore> dotnet run
+Hello World!
+PS C:\Users\johnm\Documents\Coding_Dojo\C#\HelloDotNetCore>
+
+
+

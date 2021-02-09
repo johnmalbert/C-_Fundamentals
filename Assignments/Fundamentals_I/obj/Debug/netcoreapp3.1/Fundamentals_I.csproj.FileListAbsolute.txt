@@ -1,0 +1,13 @@
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.exe
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.deps.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.runtimeconfig.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.runtimeconfig.dev.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.AssemblyInfo.cs
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.genruntimeconfig.cache

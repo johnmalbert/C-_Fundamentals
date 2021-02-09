@@ -1,0 +1,13 @@
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\bin\Debug\netcoreapp3.1\Collections_Prac.exe
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\bin\Debug\netcoreapp3.1\Collections_Prac.deps.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\bin\Debug\netcoreapp3.1\Collections_Prac.runtimeconfig.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\bin\Debug\netcoreapp3.1\Collections_Prac.runtimeconfig.dev.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\bin\Debug\netcoreapp3.1\Collections_Prac.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\bin\Debug\netcoreapp3.1\Collections_Prac.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.AssemblyInfo.cs
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\Collections_Prac\obj\Debug\netcoreapp3.1\Collections_Prac.genruntimeconfig.cache

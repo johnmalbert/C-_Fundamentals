@@ -1,0 +1,13 @@
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\bin\Debug\netcoreapp3.1\mult_table.exe
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\bin\Debug\netcoreapp3.1\mult_table.deps.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\bin\Debug\netcoreapp3.1\mult_table.runtimeconfig.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\bin\Debug\netcoreapp3.1\mult_table.runtimeconfig.dev.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\bin\Debug\netcoreapp3.1\mult_table.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\bin\Debug\netcoreapp3.1\mult_table.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.AssemblyInfo.cs
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\Assignments\mult_table\obj\Debug\netcoreapp3.1\mult_table.genruntimeconfig.cache
