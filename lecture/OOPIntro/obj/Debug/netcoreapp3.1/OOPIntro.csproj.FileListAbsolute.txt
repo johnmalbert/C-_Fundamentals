@@ -1,0 +1,13 @@
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.exe
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.deps.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.runtimeconfig.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.runtimeconfig.dev.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\bin\Debug\netcoreapp3.1\OOPIntro.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.AssemblyInfo.cs
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPIntro\obj\Debug\netcoreapp3.1\OOPIntro.genruntimeconfig.cache
