@@ -14,6 +14,7 @@ namespace Human
             Console.WriteLine(Bob.Attack(Jerry));
             Console.WriteLine(Jerry.Attack(Bob));
             Console.WriteLine(Jerry.Attack(Bob));
+            
         }
     }
     class Human

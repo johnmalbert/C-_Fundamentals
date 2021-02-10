@@ -16,7 +16,8 @@ namespace OOPIntro
                 larry,
                 fletcher
             };
-            
+            fletcher.MyPrivateProperty = "cool!";
+            Console.WriteLine(fletcher.MyPrivateProperty);
             // notice the type variance here, var. 
             foreach(var stud in students)
             {
@@ -31,8 +32,20 @@ namespace OOPIntro
         //these are fields: 
         public string FirstName;
         public string LastName;
-        public int energy;
+        public int energy{get;set;}
 
+        private string myPrivateField;
+
+        public string MyPrivateProperty {
+            get
+            {
+                return myPrivateField;
+            }
+            set
+            {
+                myPrivateField = value;
+            }
+        }
         public string FullName
         { // property example: 
             //cant set it directly
@@ -48,6 +61,7 @@ namespace OOPIntro
             FirstName = first;
             LastName = last; 
             energy = en;
+            myPrivateField = "not cool";
             Console.WriteLine($"New student created!");
         }
 
