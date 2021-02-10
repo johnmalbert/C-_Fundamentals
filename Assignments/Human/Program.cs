@@ -9,21 +9,25 @@ namespace Human
             Console.WriteLine("####################################################################");
             Human Bob = new Human("Bob");
             Human Jerry = new Human("Jerry", 5, 3, 3, 110);
-            Console.WriteLine("Bob and Jerry Created.");
+            Console.WriteLine("New Humans Bob and Jerry Created!");
             Ninja n = new Ninja("Mike");
-            Jerry.Attack(n);
             Wizard gandalf = new Wizard("Gandalf");
             Samurai sally = new Samurai("Sally");
+            Console.WriteLine("####################################################################");
+            Jerry.Attack(n);
             gandalf.Attack(Bob);
+            Console.WriteLine("####################################################################");
             gandalf.Heal(Bob);
+            Console.WriteLine("####################################################################");
             n.Steal(gandalf);
             n.Steal(gandalf);
+            Console.WriteLine("####################################################################");
             sally.Meditate();
+            Console.WriteLine("####################################################################");
             sally.Attack(n);
             sally.Attack(n);
             sally.Attack(n);
-            sally.Attack(n);
-            sally.Attack(n);
+            Console.WriteLine("####################################################################");
         }
     }
     class Human

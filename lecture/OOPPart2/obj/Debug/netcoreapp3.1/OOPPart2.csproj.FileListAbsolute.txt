@@ -1,0 +1,13 @@
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\bin\Debug\netcoreapp3.1\OOPPart2.exe
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\bin\Debug\netcoreapp3.1\OOPPart2.deps.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\bin\Debug\netcoreapp3.1\OOPPart2.runtimeconfig.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\bin\Debug\netcoreapp3.1\OOPPart2.runtimeconfig.dev.json
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\bin\Debug\netcoreapp3.1\OOPPart2.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\bin\Debug\netcoreapp3.1\OOPPart2.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.AssemblyInfo.cs
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.dll
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.pdb
+C:\Users\johnm\Documents\Coding_Dojo\C#\lecture\OOPPart2\obj\Debug\netcoreapp3.1\OOPPart2.genruntimeconfig.cache
