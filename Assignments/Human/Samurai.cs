@@ -24,10 +24,6 @@ namespace Human
                 Console.WriteLine($"{target.name} was attacked by {name}. Because he had a health less than 50, {name} wiped him out.");
                 target.Health = 0;
             }
-            else
-            {
-                Console.WriteLine($"{target.name} was attacked by {name}. {target.name} now has a health of {target.Health}.");
-            }
             return target.Health;
         }
     }
