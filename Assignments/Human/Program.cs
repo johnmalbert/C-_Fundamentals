@@ -6,15 +6,24 @@ namespace Human
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("####################################################################");
             Human Bob = new Human("Bob");
-            Human Jerry = new Human("Jerry", 20, 100, 100, 110);
+            Human Jerry = new Human("Jerry", 5, 3, 3, 110);
             Console.WriteLine("Bob and Jerry Created.");
-            Console.WriteLine(Bob.Attack(Jerry));
-            Console.WriteLine(Bob.Attack(Jerry));
-            Console.WriteLine(Jerry.Attack(Bob));
-            Console.WriteLine(Jerry.Attack(Bob));
-            
+            Ninja n = new Ninja("Mike");
+            Jerry.Attack(n);
+            Wizard gandalf = new Wizard("Gandalf");
+            Samurai sally = new Samurai("Sally");
+            gandalf.Attack(Bob);
+            gandalf.Heal(Bob);
+            n.Steal(gandalf);
+            n.Steal(gandalf);
+            sally.Meditate();
+            sally.Attack(n);
+            sally.Attack(n);
+            sally.Attack(n);
+            sally.Attack(n);
+            sally.Attack(n);
         }
     }
     class Human
@@ -30,16 +39,18 @@ namespace Human
         public int Health
         {
             get { return health; }
+            set { health = value; }
         }
         // Add a constructor that takes a value to set Name, and set the remaining fields to default values
         public Human(string Name) 
         {
             name = Name;
-            Strength = 10;
-            Intellegence = 90;
-            Dexterity = 80;
+            Strength = 3;
+            Intellegence = 3;
+            Dexterity = 3;
             health = 100;
         }
+
 
         public Human(string Name, int Str, int Intel, int Dext, int heal)
         {
@@ -51,11 +62,12 @@ namespace Human
         }
 
         //build attack method
-        public int Attack(Human target)
+        public virtual int Attack(Human target)
         {
-            health -= this.Strength;
-            Console.WriteLine($"{target.name} was attacked by {this.name}! His health was decreased by {this.Strength}");
-            return Health;
+            int attackStrength = 5 * Strength;
+            target.Health -= attackStrength;
+            Console.WriteLine($"{target.name} was attacked by {this.name}! His health was decreased by {attackStrength}");
+            return target.Health;
         }
     }
 }
